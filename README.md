@@ -85,6 +85,33 @@ This milestone focuses on transforming SQL analysis results and retail sales dat
 ### Conclusion
 This milestone demonstrates how data visualization techniques can turn retail sales data into accessible visual insights and support business analysis and decision-making.
 
+## Milestone 04: Deeper Analysis — RFM Customer Segmentation
+
+### Project Overview
+This milestone applies RFM analysis to retail sales data to evaluate customer purchasing behavior and identify customer segments based on recency, frequency, and monetary value.
+
+### Objectives
+- Calculate RFM metrics for each customer.
+- Assign scores and create rule-based customer segments.
+- Visualize customer distribution and purchasing behavior.
+- Translate analytical results into potential business actions.
+
+### Tools & Technologies
+Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook.
+
+### Key Deliverables
+- RFM customer metrics and scores.
+- Customer segmentation results.
+- Customer segment distribution chart.
+- Frequency versus monetary value scatter plot.
+- Exported customer segmentation dataset.
+
+### Notebook
+`notebooks/04_deeper_analysis.ipynb`
+
+### Business Impact
+RFM analysis helps identify high-value and less-active customers, providing insights that can guide customer retention, loyalty programs, and re-engagement strategies.
+
 
 ## Organization
 **Mint Technologies** | Data Analytics Project
